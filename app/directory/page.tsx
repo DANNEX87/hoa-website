@@ -3,7 +3,7 @@ import { createClient } from '@/lib/supabase'
 import DirectoryTable from '@/components/DirectoryTable'
 
 export default async function DirectoryPage() {
-  const { userId } = auth()
+  const { userId } = await auth()
   if (!userId) return null // middleware handles redirect
 
   const supabase = createClient()
