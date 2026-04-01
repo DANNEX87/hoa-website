@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'My Neighborhood HOA',
-  description: 'Welcome to our neighborhood HOA portal',
+  description: 'Welcome to Timbered Estates portal',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
