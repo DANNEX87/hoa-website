@@ -1,3 +1,4 @@
+'use client'
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto py-16 px-6">
