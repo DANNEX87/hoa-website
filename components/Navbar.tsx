@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="bg-brand-700 text-white shadow-md">
       <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="font-bold text-lg tracking-tight hover:text-brand-100 transition">
-          🏡 My Neighborhood HOA
+          🏡 Timbered Estates
         </Link>
         <div className="hidden sm:flex items-center gap-6 text-sm font-medium">
           {navLinks.map((link) => (
