@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'My Neighborhood HOA',
+  title: 'Timbered Estates',
   description: 'Welcome to Timbered Estates portal',
 }
 
