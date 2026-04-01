@@ -68,7 +68,7 @@ const announcements = [
   },
   {
     date: 'March 1, 2026',
-    title: 'Welcome to Our New HOA Website!',
+    title: 'Welcome to Our New Timbered Estates Website!',
     body: 'We\'ve launched a new portal to keep all residents informed. Log in with your Google or Microsoft account to access the resident directory.',
   },
 ]
